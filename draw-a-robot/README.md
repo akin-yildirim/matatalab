@@ -3,7 +3,7 @@ My first project
 <p>
   <table>
     <tbody>
-      <tr><td colspan="2"> THE HEAD </td><tr>
+      <tr><th colspan="2" align=center> THE HEAD </th><tr>
       <tr><td> <img src=10.the.head.code.jpg> </td><td> <img src=11.the.head.output.jpg> </td><tr>
       <tr><td> <img src=20.the.neck.code.jpg> </td><td> <img src=21.the.neck.output.jpg> </td><tr>
       <tr><td> <img src=30.the.body.code.jpg> </td><td> <img src=31.the.body.output.jpg> </td><tr>
