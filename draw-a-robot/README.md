@@ -3,6 +3,7 @@
 <p>
   <table>
     <tbody>
+      <tr><th align=center> CODE </th><th align=center> OUTPUT </th><tr>
       <tr><th colspan="2" align=center> THE HEAD </th><tr>
       <tr><td> <img src=10.the.head.code.jpg> </td><td> <img src=11.the.head.output.jpg> </td><tr>
       <tr><th colspan="2" align=center> THE NECK </th><tr>
