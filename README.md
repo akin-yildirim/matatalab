@@ -3,7 +3,7 @@
 <b> My MatataLab Projects </b>
 <ul>
   <li><a href=https://github.com/akin-yildirim/matatalab/tree/master/projects/20200208-draw-a-robot> Draw-A-Robot </a><li>
-<ul>
+</ul>
 <p>
   <b> Here is my coding library </b>
   <img src=images/00.the.library.jpg>
