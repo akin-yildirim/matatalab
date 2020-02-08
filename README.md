@@ -9,8 +9,9 @@
   <b> Here is my coding library: </b>
   <img src=images/00.the.library.jpg>
 </p>
-
+<hr>
 <p>
   <b> Here is my little runtime RoboCat: </b>
   <img src=images/01.runtime.jpg>
 </p>
+<hr>
