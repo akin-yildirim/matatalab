@@ -2,7 +2,7 @@
 
 <b> My MatataLab Projects </b>
 <ul>
-  <li><a href=https://github.com/akin-yildirim/matatalab/tree/master/projects/20200208-draw-a-robot target="_blank" > Draw-A-Robot </a></li>
+  <li><a href=https://github.com/akin-yildirim/matatalab/tree/master/projects/20200208-draw-a-robot target="_blank" > Draw-A-Robot   <li><a href=https://github.com/akin-yildirim/matatalab/tree/master/projects/20200223-draw-a-school target="_blank" > Draw-A-School </a></li>
 </ul>
 <hr>
 <p>
